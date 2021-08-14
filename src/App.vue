@@ -8,7 +8,7 @@
 </template> 
 
 <script>
-import axios from 'axios'
+// import axios from 'axios'
 // import Hello from '@/components/Hello.vue'
 // import Hello from '@/components/Hello'
 // import heropy from 'npm_test'
