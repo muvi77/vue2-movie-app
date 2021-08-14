@@ -8,6 +8,7 @@
 </template> 
 
 <script>
+import axios from 'axios'
 // import Hello from '@/components/Hello.vue'
 // import Hello from '@/components/Hello'
 // import heropy from 'npm_test'
@@ -20,6 +21,15 @@ export default {
         Header,
         Footer
     },
+    // mounted() {
+    //   this.init() 
+    // },
+    // methods: {
+    //   async init() {
+    //     const res = await axios.post('/.netlify/functions/movie')
+    //     console.log(res)
+    //   }
+    // },
     // mounted () {
     //   const u = heropy(['A', 'B', 'C', 'A', 'B'])
     //   console.log("[u] : " + u)
