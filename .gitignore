@@ -1,5 +1,7 @@
 /dist
 .env
+.webpack.config.copy.js
+.package_me.json
 
 **/node_modules
 
